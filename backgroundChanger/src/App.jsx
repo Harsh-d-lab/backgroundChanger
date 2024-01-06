@@ -18,6 +18,7 @@ function App() {
           <button className="w-16 h-16 rounded-full text-white bg-pink-500" onClick={() => setColor("pink")}>Pink</button>
           <button className="w-16 h-16 rounded-full text-white bg-gray-500" onClick={() => setColor("gray")}>Gray</button>
           <button className="w-16 h-16 rounded-full text-white bg-black" onClick={() => setColor("black")}>Black</button>
+          <button className="w-16 h-16 rounded-full text-white bg-white" onClick={() => setColor("white")}>White</button>
         </div>
       </div>
     </div>
